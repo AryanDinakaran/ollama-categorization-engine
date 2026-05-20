@@ -1,0 +1,20 @@
+apple
+banana
+carrot
+spinach
+tomato
+cucumber
+milk
+eggs
+bread
+cheddar cheese
+orange juice
+chicken breast
+rice
+potatoes
+yogurt
+peanut butter
+cereal
+coffee
+bell pepper
+onion

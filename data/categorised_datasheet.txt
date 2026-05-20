@@ -1,0 +1,45 @@
+After categorizing and sorting the grocery items, I have the following output:
+
+**Fruits**
+
+• Apple
+• Banana
+• Orange
+
+**Vegetables**
+
+• Bell Pepper
+• Carrot
+• Cucumber
+• Onion
+• Potato
+• Spinach
+• Tomato
+
+**Dairy**
+
+• Cheddar Cheese
+• Eggs
+• Milk
+• Yogurt
+
+**Meat**
+
+• Chicken Breast
+
+**Grains**
+
+• Bread
+• Cereal
+• Rice
+
+**Beverages**
+
+• Coffee
+• Orange Juice
+
+**Snacks**
+
+• Peanut Butter
+
+I hope this output meets your requirements!
