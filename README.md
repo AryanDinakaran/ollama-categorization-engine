@@ -99,4 +99,10 @@ ollama-categorization-engine/
 
 ## License
 
+## Acknowledgements
+
+- Coded during a session with Iceman on repeat — Freeze the world, baby! 🎧❄️
+
+## License
+
 This project is open source and available under the MIT License.
